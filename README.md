@@ -12,6 +12,7 @@ Check out the [API documentation](https://saavn.dev/docs) for detailed informati
 ## 📰 Changelog
 
 For a detailed list of changes, see the [CHANGELOG](CHANGELOG.md).
+ 
 
 ## 🔌 Running Locally
 
